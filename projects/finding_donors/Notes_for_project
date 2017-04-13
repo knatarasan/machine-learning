@@ -1,0 +1,26 @@
+Priority
+
+How following are differnt ?
+----------------------------
+Transform (Logrithmic)
+Scalling
+Encoding
+
+
+Do research on 
+	Decision Tree
+	KNN
+	SVM
+	
+* Describe one real-world application in industry where the model can be applied. (You may need to do research for this — give references!)
+* What are the strengths of the model; when does it perform well?
+* What are the weaknesses of the model; when does it perform poorly?
+* What makes this model a good candidate for the problem, given what you know about the data?
+
+
+
+Optional:
+
+How to draw histogram from matplotlib ?
+Logarithmic transformation 
+
