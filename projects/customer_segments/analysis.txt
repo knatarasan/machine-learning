@@ -1,0 +1,6 @@
+Fresh	: 	12,000
+Milk	:	 5,796
+Grocery	:	 7,951
+Frozen	:	 3,071
+Detergen:	 2,881
+Delicate:	 1,524
